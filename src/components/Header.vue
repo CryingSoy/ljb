@@ -1,7 +1,6 @@
 <template>
     <header>
-        <h1>我是header</h1>
-        <input type="button" value="加一" @click="jiayi">
+        <input type="button" value="加一222" @click="jiayi">
     </header>
 </template>
 <script>

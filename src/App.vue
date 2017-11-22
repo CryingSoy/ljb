@@ -1,11 +1,5 @@
 <template>
 	<div id="app">
-		<img src="./assets/logo.png"> {{msg}}
-		<input type="button" value="test" @click="test">
-		<my-header></my-header>
-		<my-footer></my-footer>
-
-
 		<router-view></router-view>
 	</div>
 </template>

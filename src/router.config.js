@@ -1,6 +1,6 @@
-import Test from './components/Test.vue'
+import index from './components/index.vue'
 export default [{
-    name: 'test',
-    path: '/test',
-    component: Test,
+    name: 'index',
+    path: '/',
+    component: index,
 }]
